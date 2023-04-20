@@ -46,28 +46,11 @@ nav .btn {
     line-height: 34px;
 }
 
-/* .navbar #off .btn a {
-    padding: 10px 67px;
-    font-weight: 400;
-
-} */
-
 form .input {
     /* width: 50%; */
     background-color: white;
     border-radius: 6px;
 }
-
-/* .banner .input button {
-    background-color: red;
-    width: 30%;
-    padding: 10px 10px;
-    margin: 1px;
-} */
-
-/* .banner .input input {
-    width: 65%;
-} */
 
 form .input input {
     border: none;
@@ -93,14 +76,15 @@ form button {
     opacity: 0.7;
     padding-top: 10px;
     padding-bottom: 10px;
+    color: white !important;
 }
 
 .container h2 {
     text-transform: capitalize;
     font-weight: bold;
     font-size: 45px;
+    color: white !important;
 }
-
 .start h3 {
     font-weight: 600;
 }
