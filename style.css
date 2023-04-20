@@ -784,12 +784,6 @@ footer p {
 
 }
 
-/* @media screen and (min-width:576px) {
-    .features {
-        margin: 1rem;
-    }
-} */
-
 
 @media screen and (max-width:320px) {
     .about {
@@ -877,7 +871,7 @@ footer p {
 
     .quote .img {
         width: 95%;
-        height: 80vh;
-        margin: 10px;
+        height: 60vh;
+        margin: 12px;
     }
 }
